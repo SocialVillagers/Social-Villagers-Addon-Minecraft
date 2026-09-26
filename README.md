@@ -1,7 +1,8 @@
 # Villager News Addon
 
 **Villager News Addon** is the Villager News 1.0 add-on: villager news addon free download, minecraft bedrock, minecraft java, minecraft mods. 2000+ voices, gossip, Oreville and Element Animation.
-<img width="64" height="64" alt="images1" src="https://github.com/user-attachments/assets/43c1ad4b-d8f0-49bb-a71f-7be7eb5fcb2b" />
+
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/c8009f1f-fc24-41a3-9bd4-abcf57ef901c" />
 
 ## What's new in v1.0 (September 3, 2026)
 - Official Villager News 1.0 add-on
@@ -9,7 +10,10 @@
 - Gossip / reputation
 - Minecraft 1.21.120+
 
-<img width="800" height="450" alt="images2" src="https://github.com/user-attachments/assets/94fa2348-e7fe-4937-84e4-ecc041d60bea" />
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/5ee1ecd3-e960-403e-ac73-fbd9978cd225" />
+
+<img width="596" height="335" alt="image" src="https://github.com/user-attachments/assets/15bf7f32-e721-44b2-bdb7-d1fb2791d4fc" />
 
 ## How to use
 1. Download v1.0.
@@ -17,7 +21,7 @@
 3. Drop the pack into Bedrock (Java notes in `files/fabric/`).
 4. Enable. Load a world.
 
-<img width="1280" height="720" alt="images3" src="https://github.com/user-attachments/assets/30d3ab57-c62a-4472-b3ac-4956eab651fb" />
+<img width="335" height="597" alt="image" src="https://github.com/user-attachments/assets/aad41503-c46f-496e-8395-be44bc228c7b" /><img width="335" height="597" alt="image" src="https://github.com/user-attachments/assets/bc35694e-2d8c-4b27-b918-38e371df9f0b" />
 
 ## Key Features
 - Villager News voices
@@ -26,8 +30,6 @@
 - Gossip
 - Actions and Stuff friendly
 
-<img width="596" height="335" alt="images4" src="https://github.com/user-attachments/assets/32102dc9-cd42-40f5-84a5-7a291e566560" />
-<img width="480" height="360" alt="images5" src="https://github.com/user-attachments/assets/2779188c-bf01-4d57-a5a9-689d719893f3" />
 
 ## FAQ
 
@@ -42,4 +44,6 @@ Minecraft 1.21.120 or later. Bedrock Marketplace path.
 
 ## License
 Add-on notes - Copyright (C) 2026 villagernews
-<img width="596" height="335" alt="images6" src="https://github.com/user-attachments/assets/74af59ca-5033-491c-9a0e-64e49039eb4c" />
+
+
+<img width="3264" height="1836" alt="image" src="https://github.com/user-attachments/assets/3a202fc6-decc-48b3-8747-b4509ffc2506" />
